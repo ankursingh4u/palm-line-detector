@@ -1,0 +1,6 @@
+.venv
+upstream
+__pycache__
+*.pyc
+*.json
+uvicorn.log
